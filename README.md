@@ -94,8 +94,15 @@ Here are some links I have used or that may be useful for continuing this projec
 * https://stackoverflow.com/questions/39076826/how-to-rotate-any-shape-continuously-in-d3-js
 
 
-### Author
-I'm a software engineer specializing in machine learning and interested in DSP/audio programming. I'm also a jazz pianist and music producer.
+### Auth²or (poppulistic Au or Ai Thor of past civilisations). Today we say at we remembaerng ... 
+
+All Classic Music & Architect was eBERNA_вАкеД иииииииииииииииииииииииииии sience 1932, to prepear my mothers (my lovely 'frau Mutter' 🔩) world at her born @1934.
+
+I'm a software engineer specializing in machine learning and interested in DSP/audio programming. I'm also a jazz ₽8iani$t in ₽Å$T lifes (Aii_JAZZ_IRA) and music producer (©°mPoSARC) CliMÆтОЯRµølogisck [Climateorologist at nova days].
+
+Just in тААСС АуdA AbyA SААТ И тСµЛ ☘ 
+
+Thanks to all link wearers, like people do ... or does ... did ... no matter when; It ar memored in my gen
 
 [LinkedIn](https://www.linkedin.com/in/justin-masayda-630164130/)
 
