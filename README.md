@@ -2,8 +2,7 @@
 
 Twelve-tone harmony visualized
 
-[![image]([https://user-images.githubusercontent.com/74752740/130612698-b5a494ec-97c6-4bc2-a466-445bc9205791.png](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/458c523f-ce3b-49af-ab4e-dd3cccc2026a" />
-))](https://barionleg.github.io/periodic_ttonaton_table_of_harmony/)
+[![image]([https://user-images.githubusercontent.com/74752740/130612698-b5a494ec-97c6-4bc2-a466-445bc9205791.png])](https://barionleg.github.io/periodic_ttonaton_table_of_harmony/)
 
 Check it out here: https://aibolem.github.io/periodic_table_of_harmony/
 
