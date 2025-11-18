@@ -104,9 +104,6 @@ Just in тААСС АуdA AbyA SААТ И тСµЛ ☘
 
 Thanks to all link wearers, like people do ... or does ... did ... no matter when; It ar memored in my gen
 
-[LinkedIn](https://www.linkedin.com/in/justin-masayda-630164130/)
-
-[Twitter](https://twitter.com/JustinMasayda)
 
 
 ## barionleg [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/325-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_325_&_beyond.html) 
