@@ -50,7 +50,7 @@ Click on a node to select/deselect it. Hovering over a node highlights its links
 
 The sidebar menu can be opened from the icon in the upper left corner. The menu is currently empty. 
 
-I will ask Chat-gpt to link to sidemenu that links with  thumbinalls of that images:
+# I will ask Chat-gpt 1: to link to sidemenu that links with  thumbinalls of that images and linked .md filelinks:
 
 https://github.com/barionleg/chords_synesthesia/wiki 
 
@@ -119,10 +119,19 @@ file: ising.js.md
 
 end of sidemenu.
 
+# Ask to Chat gpt 2:  colorise_grey_background_in_circle_for_each_nota_and_lines like on image colorise_grey_background_in_circle_for_each_nota_and_lines.png by 1701 Isaac Newton Chords Synthesia Model, living black black keys ... even when builded "family tree" by lines, change color of green lines to relatived color of linked lines.
+
+
+
+<img width="1366" height="768" alt="colorise_grey_background_in_circle_for_each_nota_and_lines" src="https://github.com/user-attachments/assets/0d8eb187-2079-4ceb-8ab3-f1414355370c" />
+
+
+# Ask to Chat-gpt 4: to add ➕ & ➖  to zoom 🔎 and on keyboard upp, down, right, left, movement, because without mouse with roller is almost impossible to zoom at right zoom ... even with mouse with roller wheel is too heavy ...
+
 
 ### Information modal
 
-Ask Chat-gpt 2: to change .svg image from "i" to white "C" in blau circle 🔵, "i"  information ℹ move to side menu ...
+# Ask Chat-gpt 3: to change .svg image from "i" to white "C" in blau circle 🔵, "i"  information ℹ move to side menu ...
 
 
 ![image](https://user-images.githubusercontent.com/74752740/130615379-b157bd49-1fa0-4f2b-8261-291ab248feba.png)
