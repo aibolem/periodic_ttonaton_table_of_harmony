@@ -121,7 +121,13 @@ end of sidemenu.
 
 
 ### Information modal
+
+Ask Chat-gpt 2: to change .svg image from "i" to white "C" in blau circle 🔵, "i"  information ℹ move to side menu ...
+
+
 ![image](https://user-images.githubusercontent.com/74752740/130615379-b157bd49-1fa0-4f2b-8261-291ab248feba.png)
+
+
 
 The information modal appears upon first landing on the website and can be viewed again at any time by clicking on the info icon (i) in the upper right corner of the graph. The info modal gives a description of the website in hopes that visiters will have an easier time understanding what they're looking at and how to navigate it. 
 
