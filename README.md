@@ -50,39 +50,72 @@ Click on a node to select/deselect it. Hovering over a node highlights its links
 
 The sidebar menu can be opened from the icon in the upper left corner. The menu is currently empty. 
 
-I will ask Chat-gpt to link to sidemenu 
+I will ask Chat-gpt to link to sidemenu that links with  thumbinalls of that images:
 
 https://github.com/barionleg/chords_synesthesia/wiki 
 
+file: chords_synesthesia.md
+
+<img width="685" height="131" alt="newton_colors" src="https://github.com/user-attachments/assets/c0edc358-5660-4164-ab8d-6093e5c0d883" />
+
+file: dbarcasio.md
+
+<img width="788" height="810" alt="Newton&#39;s_color_circle_colorÅÄd" src="https://github.com/user-attachments/assets/b9bec139-e98a-435f-8a48-294da7560cfe" />
+
+
 https://github.com/aibolem/ising_2d_model/wiki
 
+file: ising_2d_model.md
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3fec8618-d20d-4b47-8e6f-830322e71f4b" />
+
+
 https://github.com/aibolem/c-ho-ladn-a-i-ck/wiki
+
+file: c-ho-ladn-a-i-ck.md
 
 <img width="843" height="474" alt="image" src="https://github.com/user-attachments/assets/1839634b-167f-41cc-a5f4-3936fcda5ce3" />
 
 
 https://en.wikipedia.org/wiki/Piano_key_frequencies
 
+image:  P8iAHO
+
+link: https://github.com/aibolem/dbarcasio/blob/gh-pages/P8iAHO_%26%26.png
+
+<img width="2101" height="5065" alt="P8iAHO_" src="https://github.com/user-attachments/assets/8699e582-d760-42ee-86fa-b86eee30e2df" />
+
 
 
 https://github.com/aibolem/dbarcasio/wiki/
+
+file: dbarcasio.md
 
 <img width="922" height="360" alt="image" src="https://github.com/user-attachments/assets/af2e4afb-95cb-42ec-8e43-abb94c23dd40" />
 
 
 https://github.com/aibolem/Color_Translator_austereich/wiki/
 
+file: Color_Translator_aus_ter_e_ich.md
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db0afc0e-bbfc-463a-84e3-885e3e09254e" />
 
 
 https://github.com/barionleg/qpi/wiki
+
+file: qpi.md
 
 <img width="420" height="400" alt="image" src="https://github.com/user-attachments/assets/fb02637b-6366-410a-a791-ad3ae6e1bf85" />
 
 
 https://github.com/barionleg/ising.js/wiki
 
+file: ising.js.md
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1682e0f3-89ae-4ab5-950d-dba90e6aa33a" />
+
+end of sidemenu.
 
 
 ### Information modal
