@@ -91,6 +91,8 @@ https://github.com/aibolem/dbarcasio/wiki/
 
 file: dbarcasio.md
 
+casio-barcode-diagram.png
+
 <img width="922" height="360" alt="image" src="https://github.com/user-attachments/assets/af2e4afb-95cb-42ec-8e43-abb94c23dd40" />
 
 
