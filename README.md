@@ -48,7 +48,9 @@ Click on a node to select/deselect it. Hovering over a node highlights its links
 ### Sidebar menu
 ![image](https://user-images.githubusercontent.com/74752740/130615265-f222d749-f30a-488e-b85e-970875aad20a.png)
 
-The sidebar menu can be opened from the icon in the upper left corner. The menu is currently empty and is probably entirely unnecessary.
+The sidebar menu can be opened from the icon in the upper left corner. The menu is currently empty. 
+
+I will ask Chat-gpt to link to sidemenu 
 
 ### Information modal
 ![image](https://user-images.githubusercontent.com/74752740/130615379-b157bd49-1fa0-4f2b-8261-291ab248feba.png)
