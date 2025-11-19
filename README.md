@@ -52,6 +52,34 @@ The sidebar menu can be opened from the icon in the upper left corner. The menu 
 
 I will ask Chat-gpt to link to sidemenu 
 
+https://github.com/barionleg/chords_synesthesia/wiki 
+
+https://github.com/aibolem/ising_2d_model/wiki
+
+https://github.com/aibolem/c-ho-ladn-a-i-ck/wiki
+
+<img width="843" height="474" alt="image" src="https://github.com/user-attachments/assets/1839634b-167f-41cc-a5f4-3936fcda5ce3" />
+
+
+https://en.wikipedia.org/wiki/Piano_key_frequencies
+
+
+
+https://github.com/aibolem/Color_Translator_austereich/wiki/
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db0afc0e-bbfc-463a-84e3-885e3e09254e" />
+
+
+https://github.com/barionleg/qpi/wiki
+
+<img width="420" height="400" alt="image" src="https://github.com/user-attachments/assets/fb02637b-6366-410a-a791-ad3ae6e1bf85" />
+
+
+https://github.com/barionleg/ising.js/wiki
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1682e0f3-89ae-4ab5-950d-dba90e6aa33a" />
+
+
 ### Information modal
 ![image](https://user-images.githubusercontent.com/74752740/130615379-b157bd49-1fa0-4f2b-8261-291ab248feba.png)
 
